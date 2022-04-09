@@ -10,6 +10,7 @@ Additional Technologies used:
 - Client
     - [Axios](https://www.npmjs.com/package/axios)
     - [Tailwindcss](https://tailwindcss.com/)
+    - [Scss](https://sass-lang.com/)
 
 - Server
     - [Busboy](https://www.npmjs.com/package/busboy)
